@@ -1,5 +1,3 @@
-HI There
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -28,9 +26,9 @@ HI There
 ### 🛒 Kenyan Food Market Predictor
 > A predictive model analysing and forecasting food market trends in Kenya — leveraging local datasets to help understand price fluctuations, supply patterns, and consumer behaviour.
 
-- 📈 Market trend analysis using historical data
+- 📈 Market trend analysis using historical and current sales data
 - 🤖 Building ML models for price & demand forecasting
-- 🗺️ Focused on Kenyan & East African food markets
+- 🗺️ Focused on Kenyan food markets
 
 ---
 
